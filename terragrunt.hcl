@@ -11,11 +11,11 @@ remote_state {
 
 #common var or even locals 
 inputs = {
-    location = "eastus"
-    rg_name = "azurefunction"
-    storage_account_name = "hammouda1948"
-    storage_account_tier = "Standard"
-    storage_account_type = "LRS"
+    location = ""
+    rg_name = ""
+    storage_account_name = ""
+    storage_account_tier = ""
+    storage_account_type = ""
          
  }
 
