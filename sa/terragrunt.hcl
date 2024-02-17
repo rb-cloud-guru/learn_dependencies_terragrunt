@@ -14,11 +14,10 @@ dependency "rg" {
   config_path = "../rg"
   skip_outputs = false
   mock_outputs = {
-    rg_name     = "harbar"
-    location = "westus"
+    rg_name     = "dummy-rg-name"
+    location = "validazregion"
   }
 }
-
 
 #inputs
 inputs = {
